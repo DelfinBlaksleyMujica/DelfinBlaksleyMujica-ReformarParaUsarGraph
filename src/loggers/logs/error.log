@@ -1,0 +1,13 @@
+{"level":"error","message":"Error en el servidor para acceder a la ruta GET / para traer productos"}
+{"level":"error","message":"Error en el servidor para acceder a la ruta POST /, no se pudo agregar el producto a la base de datos"}
+{"level":"error","message":"Error en el servidor para acceder a la ruta POST /, no se pudo agregar el producto a la base de datos"}
+{"level":"error","message":"Error en el servidor para acceder a la ruta POST /, no se pudo agregar el producto a la base de datos"}
+{"level":"error","message":"Error en el servidor para acceder a la ruta POST /, no se pudo agregar el producto a la base de datos"}
+{"level":"error","message":"Error en el servidor para acceder a la ruta POST /, no se pudo agregar el producto a la base de datos"}
+{"level":"error","message":"Error en el servidor para acceder a la ruta GET / para traer productos"}
+{"level":"error","message":"Error en el servidor para acceder a la ruta DELETE /:6469119351d028e26a8029e9, no se elimino el producto"}
+{"level":"error","message":"Error en el servidor para acceder a la ruta DELETE /:646911e151d028e26a8029ed, no se elimino el producto"}
+{"level":"error","message":"Error en el servidor para acceder a la ruta DELETE /:6469121985c86e6aaa3e87ad, no se elimino el producto"}
+{"level":"error","message":"Error en el servidor para acceder a la ruta DELETE /undefined, no se elimino el producto"}
+{"level":"error","message":"Error en el servidor para acceder a la ruta GET /graphql no se pudo traer producto por id"}
+{"level":"error","message":"Error en el servidor para acceder a la ruta GET /graphql no se pudo traer producto por id"}
